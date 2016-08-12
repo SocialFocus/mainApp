@@ -4,7 +4,7 @@
 
 Pensar en que colecciones de datos (simil tablas de SQL) necesitaríamos construir para cada uno de los micro-servicios que definimos. 
 
-[x]1.1 SocialFocusNetworkManager
+-[x] SocialFocusNetworkManager
 1.2 SocialFocusVisualizer
 1.3 SocialFocusPublisher [Julian]
 1.4 SocialFocusSeeking
