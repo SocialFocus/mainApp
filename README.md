@@ -20,7 +20,8 @@ Prueba de concepto: conectar nuestro microservico con el frontend (el server est
 
 ### Directivas de la materia:
 
-Prueba de stress.
+Prueba de stress. 
+
 Prueba de carga.
 
 Demo.
