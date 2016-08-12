@@ -1,4 +1,5 @@
 ## Repositorio central
+###En el branch "master" solo commitear codigo 100% funcional, probado y integrado.
 
 ### Armar Modelo de Datos de cada micro-servicio
 
@@ -20,7 +21,6 @@ Prueba de concepto: conectar nuestro microservico con el frontend (el server est
 ### Directivas de la materia:
 
 Prueba de stress.
-
 Prueba de carga.
 
 Demo.
